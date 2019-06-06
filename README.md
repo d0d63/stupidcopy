@@ -1,2 +1,3 @@
 # stupidcopy
-Copy files one *random* block at a time.
+
+Copy a file block-by-block, but in an arbitrary order.
